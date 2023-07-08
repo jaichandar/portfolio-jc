@@ -7,6 +7,7 @@ app.get('/api/v1/user', (req, res) => {
         name: 'Jaichandar',
         age: 23,
         role: 'Associate Software Engineer',
+        Aim: 'Full-stack Developer, blockchain developer',
         Education: [
             {
                name: "Wisdom Matriculation Higher Secondary School",
